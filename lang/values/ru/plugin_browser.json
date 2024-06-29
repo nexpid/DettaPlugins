@@ -1,0 +1,19 @@
+{
+  "plugin.name": "Браузер плагинов",
+  "plugin.name.changes": "Plugin Browser (+{changes})",
+  "toast.copy.github_link": "Copied GitHub link!",
+  "toast.copy.unproxied_link": "Copied unproxied plugin link!",
+  "toast.plugin.update.success": "Обновлен {plugin}!",
+  "toast.plugin.update.fail": "Не удалось обновить {plugin}!",
+  "toast.plugin.delete.success": "{plugin} удален!",
+  "toast.plugin.delete.fail": "Не удалось удалить {plugin}!",
+  "toast.plugin.install.success": "Установлено {plugin}!",
+  "toast.plugin.install.fail": "Не удалось установить {plugin}!",
+  "toast.data.fail_fetch": "Не удалось собрать плагины!",
+  "toast.data.fail_parse": "Не удалось проанализировать плагины!",
+  "sheet.sort.title": "Сортировка",
+  "sheet.sort.date_newest": "Дата создания (по убыванию)",
+  "sheet.sort.date_oldest": "Дата создания (по возрастанию)",
+  "sheet.sort.name_az": "Имя (от A до Z)",
+  "sheet.sort.name_za": "Имя (от Z до A)"
+}

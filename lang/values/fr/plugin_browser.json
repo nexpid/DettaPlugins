@@ -1,0 +1,19 @@
+{
+  "plugin.name": "Navigateur de plugins",
+  "plugin.name.changes": "Plugin Browser (+{changes})",
+  "toast.copy.github_link": "Copied GitHub link!",
+  "toast.copy.unproxied_link": "Copied unproxied plugin link!",
+  "toast.plugin.update.success": "Updated {plugin}!",
+  "toast.plugin.update.fail": "Impossible de mettre à jour {plugin}!",
+  "toast.plugin.delete.success": "Deleted {plugin}!",
+  "toast.plugin.delete.fail": "Impossible de supprimer {plugin}!",
+  "toast.plugin.install.success": "Installed {plugin}!",
+  "toast.plugin.install.fail": "Impossible d'installer {plugin}!",
+  "toast.data.fail_fetch": "Échec de la récupération des plugins !",
+  "toast.data.fail_parse": "Échec de l'analyse des plugins !",
+  "sheet.sort.title": "Tri",
+  "sheet.sort.date_newest": "Date de création (du plus récent au plus vieux)",
+  "sheet.sort.date_oldest": "Date de création (du plus vieux au plus récent)",
+  "sheet.sort.name_az": "Nom (A à Z)",
+  "sheet.sort.name_za": "Nom (Z à A)"
+}

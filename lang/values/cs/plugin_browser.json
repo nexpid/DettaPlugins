@@ -1,0 +1,19 @@
+{
+  "plugin.name": "Prohlížeč Pluginů",
+  "plugin.name.changes": "Plugin Browser (+{changes})",
+  "toast.copy.github_link": "Copied GitHub link!",
+  "toast.copy.unproxied_link": "Copied unproxied plugin link!",
+  "toast.plugin.update.success": "Aktualizováno {plugin}!",
+  "toast.plugin.update.fail": "Nepovedlo se aktulizovat {plugin}!",
+  "toast.plugin.delete.success": "Smazáno {plugin}!",
+  "toast.plugin.delete.fail": "Nepodařilo se smazat {plugin}!",
+  "toast.plugin.install.success": "Nainstalováno {plugin}!",
+  "toast.plugin.install.fail": "Nepovedlo se nainstalovat {plugin}!",
+  "toast.data.fail_fetch": "Nepodařilo se načíst pluginy!",
+  "toast.data.fail_parse": "Nepodařilo se zpracovat pluginy!",
+  "sheet.sort.title": "Třídění",
+  "sheet.sort.date_newest": "Datum vytvoření (nejnovější po nejstarší)",
+  "sheet.sort.date_oldest": "Datum vytvoření (nejstarší po nejnovější)",
+  "sheet.sort.name_az": "Jméno (A až Z)",
+  "sheet.sort.name_za": "Jméno (Z až A)"
+}
